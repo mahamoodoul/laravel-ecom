@@ -196,7 +196,7 @@
                                     <a href="" class="check-out-botton">Check out</a>
 
                                 </div>
-								
+
                             </li>
                             <li><a href="#"><i class="fas fa-search"></i></a>
                                 <div class="search-box">
